@@ -43,10 +43,23 @@ The dashboard helps analyze:
 
 `trade_analysis-2005.pbix` – Power BI dashboard file.
 
+
 ## 📷 Dashboard Preview
 
-Dashboard screenshots will be added to this repository.
+### Dashboard
+![Dashboard](Dashboard-1.png)
 
+### Import Analysis
+![Import Analysis](Dashboard-2.png)
+
+### Export Analysis
+![Export Analysis](Dashboard-3.png)
+
+### Commodity Analysis
+![Commodity Analysis](Dashboard-4.png)
+
+### Port Analysis
+![Port Analysis](Dashboard-5.png)
 ## 👩‍💻 Author
 
 **Trupti Rajendra Garud**
